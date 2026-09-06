@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="class01/class01.csproj" />
   <Project Path="CS Basics05G03/CS Basics05G03.csproj" />
 </Solution>

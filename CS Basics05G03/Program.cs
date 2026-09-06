@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region 01
+            Book book = new Book();
+            Console.WriteLine(book.password);
+
+            #endregion
+
         }
     }
 }
