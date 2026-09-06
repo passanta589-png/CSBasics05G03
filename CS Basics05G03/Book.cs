@@ -8,5 +8,6 @@ namespace CS_Basics05G03
     {
         private string password = " secret";
 
+        internal int copiesInStock = 5;
     }
 }
