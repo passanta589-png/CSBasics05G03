@@ -19,6 +19,10 @@
             //book.title = "C# Programming";
             //Console.WriteLine(book.title);
             #endregion
+            #region 04
+            //book.genre = Genre.Science;
+            //Console.WriteLine(book.genre);
+            #endregion
         }
     }
 }
