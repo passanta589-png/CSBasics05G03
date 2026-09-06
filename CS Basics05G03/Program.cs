@@ -31,6 +31,11 @@
 
             //Console.WriteLine($"Enter int NonFiction:{(int)Genre.NonFiction}");
             #endregion
+            #region 06
+            //int genreNumber = 1;
+            //Genre genre = (Genre)genreNumber;
+            //Console.WriteLine(genre);
+            #endregion
         }
     }
 }
