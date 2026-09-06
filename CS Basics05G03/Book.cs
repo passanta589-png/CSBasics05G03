@@ -11,5 +11,6 @@ namespace CS_Basics05G03
         internal int copiesInStock = 5;
 
         public string title { get; set; }
+        public Genre genre { get; set; } = new Genre();
     }
 }

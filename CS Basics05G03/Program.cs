@@ -23,6 +23,14 @@
             //book.genre = Genre.Science;
             //Console.WriteLine(book.genre);
             #endregion
+            #region 05
+            //Console.WriteLine($"Enter int fiction:{(int)Genre.Fiction}");
+
+            //Console.WriteLine($"Enter int science:{(int)Genre.Science}");
+
+
+            //Console.WriteLine($"Enter int NonFiction:{(int)Genre.NonFiction}");
+            #endregion
         }
     }
 }
